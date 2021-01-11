@@ -1,0 +1,3 @@
+public enum Owner {
+PLAYER1, PLAYER2, CATHEDRAL, EMPTY
+}
